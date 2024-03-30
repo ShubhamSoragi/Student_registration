@@ -1,0 +1,53 @@
+## Name:- Shubham Singh Soragi
+## Role:- Full Stack Developer
+
+
+
+
+
+## HTML Project Documentation
+
+### Overview
+
+This HTML project is a simple website.
+
+## Documentation
+
+This project is a simple HTML/JS/CSS starter template. It provides a basic structure for creating a web page with HTML, styling it with CSS, and adding interactivity with JavaScript.
+
+### HTML
+
+The HTML file (`index.html`) contains the basic structure of the web page, including the `<head>` and `<body>` elements. The `<head>` element contains the title of the page and a link to the CSS file. The `<body>` element contains the content of the page, which is currently just a placeholder text.
+
+### CSS
+
+The CSS file (`style.css`) defines the styles for the web page. It includes styles for the body, headings, and paragraphs.
+
+### JavaScript
+
+The JavaScript file (`main.js`) contains the code that adds interactivity to the web page. It includes a function that changes the text of the placeholder text when the user clicks on it.
+-> It validate full form and submit form. 
+-> It cheaks the phone no is of 10 digits or not, all the entrys are filled or not.
+-> It cheaks the Terms and Conditions are accepted or not.
+
+
+## Report
+
+This project is a simple HTML/JS/CSS starter template. It provides a basic structure for creating a web page with HTML, styling it with CSS, and adding interactivity with JavaScript.
+
+### Note
+
+This is a sample page for demonstration purposes only.
+
+### Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+### Getting Started
+
+To view the HTML project, you will need to:
+
+1. Open the `index.html` file in a web browser.
+

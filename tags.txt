@@ -1,0 +1,36 @@
+# Tags
+<html>     <!-- Root element of an HTML document -->
+<head>     <!-- Contains metadata about the document -->
+<title>    <!-- Defines the title of the document -->
+<body>     <!-- Contains the main content of the document -->
+<p>        <!-- Represents a paragraph -->
+<br>       <!-- Inserts a line break -->
+<a>        <!-- Creates a hyperlink -->
+<form>     <!-- Creates a form -->
+<input>    <!-- Creates an input field -->
+<button>   <!-- Creates a button -->
+<select>   <!-- Creates a drop-down list -->
+<option>   <!-- Represents an option in a drop-down list -->
+<textarea> <!-- Creates a multi-line text input field -->
+<div>      <!-- Represents a division or section -->
+<style>    <!-- Defines styles for the document -->
+<script>   <!-- Contains JavaScript code -->
+<link>     <!-- Links to an external resource -->
+
+# Attributes
+href   <!-- Specifies the URL of a hyperlink -->
+src    <!-- Specifies the source of an image or other media -->
+alt    <!-- Specifies an alternative text for an image -->
+title  <!-- Specifies a tooltip for an element -->
+name   <!-- Specifies a name for an element -->
+value  <!-- Specifies the value of an input field -->
+type   <!-- Specifies the type of an input field -->
+method <!-- Specifies the HTTP method for a form -->
+action <!-- Specifies the URL to submit a form to -->
+border <!-- Specifies the width of the border around a table -->
+width  <!-- Specifies the width of an element -->
+height <!-- Specifies the height of an element -->
+align  <!-- Specifies the alignment of an element -->
+style  <!-- Specifies the style of an element -->
+class  <!-- Specifies a class for an element -->
+id     <!-- Specifies a unique identifier for an element -->

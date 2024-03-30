@@ -1,0 +1,125 @@
+/* Add styles here */
+/* Setting the default font family and styles for the entire body */
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* using multiple fallback fonts */
+    background-color: #f4f4f4;           /* setting background color */
+    margin: 0;                             /* removing default margin */
+    padding: 0;                            /* removing default padding */
+  }
+  
+  /* Styling for the main container of the form */
+  .container {
+    max-width: 600px;                          /* setting maximum width */
+    margin: 50px auto;                         /* centering the container horizontally with a margin */
+    background-color: #fff;                  /* setting background color */
+    padding: 20px;                             /* adding padding */
+    border-radius: 8px;                        /* rounding corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* adding a subtle shadow */
+  }
+  
+  /* Styling for third-level headings */
+  h3 {
+    text-align: center;                        /* centering text */
+    border-radius: 5px;                        /* rounding corners */
+    background-color: darkgray;              /* setting background color */
+    color: #333;                             /* setting text color */
+  }
+  
+  /* Styling for second-level headings */
+  h2 {
+    color: #333;                                         /* setting text color */
+    font-family: Georgia, 'Times New Roman', Times, serif; /* specifying font family with fallbacks */
+    text-align: center;                                    /* centering text */
+  }
+  
+  /* Styling for form groups */
+  .form-group {
+    margin-bottom: 20px;                                   /* adding margin between form groups */
+  }
+  
+  /* Styling for labels */
+  label {
+    display: block;                /* displaying labels as block elements */
+    margin-bottom: 5px;            /* adding margin below labels */
+    font-weight: bold;             /* making labels bold */
+  }
+  
+  /* Styling for text inputs, email inputs, and submit buttons */
+  input[type="text"],
+  input[type="email"],
+  button[type="submit"] {
+    width: 95%;               /* setting width */
+    padding: 10px;            /* adding padding */
+    border: 1px solid #ccc; /* adding border */
+    border-radius: 5px;       /* rounding corners */
+    box-sizing: border-box;   /* including padding and border in the width */
+  }
+  
+  /* Styling for radio buttons and checkboxes */
+  input[type="radio"],
+  input[type="checkbox"] {
+    display: inline-block;    /* displaying inline */
+    margin-right: 5px;        /* adding margin on the right */
+  }
+  
+  /* Styling for submit button */
+  button[type="submit"] {
+    display: inline-block;       /* displaying inline */
+    background-color: #4CAF50; /* setting background color */
+    color: white;              /* setting text color */
+    border: none;                /* removing border */
+    cursor: pointer;             /* setting cursor */
+  }
+  
+  /* Styling for submit button on hover */
+  button[type="submit"]:hover {
+    background-color: #45a049; /* changing background color on hover */
+  }
+  
+  /* Styling for focused text inputs, email inputs, and submit buttons */
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  button[type="submit"]:focus {
+    outline: none;                  /* removing outline */
+    border-color: #4CAF50;        /* changing border color */
+    box-shadow: 0 0 5px #4CAF50;  /* adding shadow */
+  }
+  
+  /* Styling for focused checkboxes */
+  input[type="checkbox"]:focus + label {
+    display: inline-block;          /* displaying label inline */
+    font-style: italic;             /* changing font style */
+  }
+  
+  /* Styling for checked checkboxes */
+  input[type="checkbox"]:checked + label {
+    display: inline-block;           /* displaying label inline */
+    color: #0c600e;                /* changing text color */
+  }
+  
+  /* Styling for focused and checked checkboxes */
+  input[type="checkbox"]:checked:focus + label {
+    display: inline-block;           /* displaying label inline */
+    font-weight: bold;               /* making text bold */
+  }
+  
+  /* Styling for checkboxes and their labels */
+  input[type="checkbox"] + label {
+    cursor: pointer;                  /* setting cursor */
+  }
+  
+  /* Styling for gender container */
+  .gender-container {
+    margin-bottom: 10px;              /* adding margin bottom */
+  }
+  
+  /* Styling for gender labels */
+  .gender-label {
+    display: inline-block;            /* displaying label inline */
+  }
+  
+  /* Styling for gender inputs */
+  .gender-input {
+    margin-right: 5px;                 /* adding margin on the right */
+  }
+  
